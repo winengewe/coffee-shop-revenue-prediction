@@ -43,7 +43,7 @@ The analysis uses a dataset (`coffee_shop_revenue.csv`) containing the following
     ```bash
     pip install pandas numpy matplotlib scikit-learn
     ```
-3.  Open the notebook `20251106_Exercise_3_Coffee_Shop.ipynb` in Jupyter Notebook or Google Colab.
+3.  Open the notebook `coffee-shop-revenue-prediction.ipynb` in Jupyter Notebook or Google Colab.
 4.  Run the cells to reproduce the analysis and model predictions.
 
 ## 📈 Results
